@@ -1,0 +1,100 @@
+{
+  "manifest_version": 3,
+  "version": "1",
+  "name": "Black",
+  "description": "Black theme",
+  "theme": {
+    "colors": {
+      "background_tab": [
+        0,
+        0,
+        0
+      ],
+      "background_tab_inactive": [
+        0,
+        0,
+        0
+      ],
+      "bookmark_text": [
+        105,
+        105,
+        105
+      ],
+      "button_background": [
+        0,
+        255,
+        0
+      ],
+      "frame": [
+        0,
+        0,
+        0
+      ],
+      "frame_inactive": [
+        0,
+        0,
+        0
+      ],
+      "ntp_background": [
+        0,
+        0,
+        0
+      ],
+      "ntp_header": [
+        0,
+        0,
+        0
+      ],
+      "ntp_link": [
+        0,
+        0,
+        0
+      ],
+      "ntp_text": [
+        255,
+        255,
+        255
+      ],
+      "omnibox_background": [
+        0,
+        0,
+        0
+      ],
+      "omnibox_text": [
+        200,
+        200,
+        200
+      ],
+      "tab_background_text": [
+        105,
+        105,
+        105
+      ],
+      "tab_background_text_inactive": [
+        56,
+        56,
+        56
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "toolbar": [
+        0,
+        0,
+        0
+      ],
+      "toolbar_button_icon": [
+        105,
+        105,
+        105
+      ],
+      "toolbar_text": [
+        105,
+        105,
+        105
+      ]
+    }
+  }
+}
