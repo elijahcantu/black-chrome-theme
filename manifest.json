@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "version": "1",
   "name": "Black",
-  "description": "Black theme",
+  "description": "Black",
   "theme": {
     "colors": {
       "background_tab": [
@@ -16,14 +16,14 @@
         0
       ],
       "bookmark_text": [
-        105,
-        105,
-        105
+        128,
+        128,
+        128
       ],
       "button_background": [
-        0,
-        255,
-        0
+        128,
+        128,
+        128
       ],
       "frame": [
         0,
@@ -41,14 +41,14 @@
         0
       ],
       "ntp_header": [
-        0,
-        0,
-        0
+        255,
+        255,
+        255
       ],
       "ntp_link": [
-        0,
-        0,
-        0
+        255,
+        255,
+        255
       ],
       "ntp_text": [
         255,
@@ -61,19 +61,19 @@
         0
       ],
       "omnibox_text": [
-        200,
-        200,
-        200
+        255,
+        255,
+        255
       ],
       "tab_background_text": [
-        105,
-        105,
-        105
+        128,
+        128,
+        128
       ],
       "tab_background_text_inactive": [
-        56,
-        56,
-        56
+        46,
+        46,
+        46
       ],
       "tab_text": [
         255,
@@ -86,14 +86,14 @@
         0
       ],
       "toolbar_button_icon": [
-        105,
-        105,
-        105
+        128,
+        128,
+        128
       ],
       "toolbar_text": [
-        105,
-        105,
-        105
+        128,
+        128,
+        128
       ]
     }
   }
